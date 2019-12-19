@@ -1,3 +1,3 @@
 # Bingo
-Juego clásico del bingo
-Los numeros del tablero se muestran en consola
+Juego clásico del bingo,
+los numeros del tablero se muestran en consola
