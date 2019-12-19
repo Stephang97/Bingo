@@ -1,0 +1,12 @@
+
+.celdas {
+    border: 2px solid rgb(0, 153, 255);
+    padding: 8px;
+    margin: 1px;
+}
+.contenedor{
+    border: 6px solid rgb(24, 144, 214);
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
